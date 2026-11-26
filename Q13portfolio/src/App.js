@@ -37,7 +37,7 @@ function App() {
       <main>
         <section className="hero" id="home">
           <div className="hero-copy">
-            <p className="eyebrow">MCA Student &amp; Web Developer</p>
+            <p className="eyebrow">MCA Student &amp; Software Developer</p>
             <h1>
               Hi, I'm <span>Vaibhav Tiwari</span>
             </h1>
@@ -129,7 +129,7 @@ function App() {
             <a href="mailto:vaibhav.tiwari_mca26@gla.ac.in">
               vaibhav.tiwari_mca26@gla.ac.in
             </a>
-            <a href="tel:+919369356608">+91 93693 56608</a>
+            <a href="tel:+919621937016">+91 9621937016</a>
           </div>
         </section>
       </main>
